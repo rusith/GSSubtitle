@@ -1,0 +1,25 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:extended="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GSSubtitle.Windows.KaroakeEffect"
+        xmlns:Special_Charcters="clr-namespace:GSSubtitle.Windows.Special_Charcters" x:Class="GSSubtitle.Windows.KaroakeEffect.KaroakeEffectWindow"
+        mc:Ignorable="d"
+        Title="KaroakeEffectWindow" Height="161.639" Width="606.91">
+
+    <Grid Margin="0,0,0,-1">
+        <extended:ColorPicker x:Name="Color1ColorPicker" SelectedColor="Blue" Width="50" Margin="55,11,0,0" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <RichTextBox x:Name="preview" HorizontalAlignment="Left" Height="64" Margin="10,38,0,0" VerticalAlignment="Top" Width="580" Background="#FF2B2727"/>
+        <Label  Content="Color1" HorizontalAlignment="Left" Height="23" Margin="7,10,0,0" VerticalAlignment="Top" Width="46"/>
+        <Label Content="Color2" HorizontalAlignment="Left" Height="23" Margin="112,11,0,0" VerticalAlignment="Top" Width="46"/>
+        <Label Content="speed" HorizontalAlignment="Left" Height="26" Margin="224,11,0,0" VerticalAlignment="Top" Width="47"/>
+        <Button x:Name="previewButton" Content="Preview" HorizontalAlignment="Left" Height="22" Margin="453,12,0,0" VerticalAlignment="Top" Width="66" Click="previewButton_Click"/>
+        <Button x:Name="okButton" Content="OK" HorizontalAlignment="Left" Height="22" Margin="524,11,0,0" VerticalAlignment="Top" Width="66" Click="okButton_Click"/>
+        <extended:ColorPicker x:Name="Color2ColorPicker"   SelectedColor="White" Width="50" Margin="162,12,0,0" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label x:Name="label" Content="sample (tags removed)" HorizontalAlignment="Left" Height="27" Margin="10,102,0,0" VerticalAlignment="Top" Width="133"/>
+        <Slider x:Name="speedslider" HorizontalAlignment="Left" Margin="271,14,0,0" VerticalAlignment="Top" Width="165" Height="24" Maximum="50" Minimum="1" Value="1"/>
+
+    </Grid>
+</Window>

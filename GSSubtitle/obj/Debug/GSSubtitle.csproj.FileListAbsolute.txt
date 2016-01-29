@@ -1,0 +1,44 @@
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.exe.config
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.exe
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.pdb
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\Windows\Editor\Editor.g.cs
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\App.g.cs
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle_MarkupCompile.cache
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle_MarkupCompile.lref
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\Windows\Editor\Editor.baml
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.g.resources
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.Properties.Resources.resources
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.csproj.GenerateResource.Cache
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.exe
+c:\users\rusith\documents\visual studio 2015\Projects\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.pdb
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.exe.config
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.exe
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.pdb
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.csprojResolveAssemblyReference.cache
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Editor\Editor.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Special Charcters\Special Charactors.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Special Charcters\SpecialCharButton.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\App.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle_MarkupCompile.cache
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle_MarkupCompile.lref
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\App.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Styles.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Editor\Editor.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Special Charcters\Special Charactors.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\Special Charcters\SpecialCharButton.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.g.resources
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.Properties.Resources.resources
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.csproj.GenerateResource.Cache
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.exe
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.pdb
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.exe.manifest
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\bin\Debug\GSSubtitle.application
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.exe.manifest
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\GSSubtitle.application
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\KaroakeEffect\KaroakeEffectWindow.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\KaroakeEffect\KaroakeEffectWindow.baml
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\ColorChoose\ColorChooser.g.cs
+D:\MyFiles\My Softwares\GS Subtitle\Project\GSSubtitle\GSSubtitle\obj\Debug\Windows\ColorChoose\ColorChooser.baml
